@@ -1,3 +1,8 @@
+# firebase_tutorial
+新卒研修でやるfirebaseのCodelabアプリに倣って作ったアプリ
+細かいところに変更や修正を加えたりしたもの
+
+
 # Firebase Codelab: FriendlyChat
 
 [![Actions Status][gh-actions-badge]][gh-actions]
@@ -16,5 +21,4 @@ See [LICENSE](LICENSE)
 
 [gh-actions]: https://github.com/firebase/codelab-friendlychat-android/actions
 [gh-actions-badge]: https://github.com/firebase/codelab-friendlychat-android/workflows/Android%20CI/badge.svg
-# firebase_tutorial
-# firebase_tutorial
+
